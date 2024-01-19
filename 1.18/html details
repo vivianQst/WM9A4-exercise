@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Union Jack Socks</title>
+    <link rel="stylesheet" href="./css/styles2.css">
+    <style>
+
+    </style>
+</head>
+
+<body>
+    <nav id="breadcrumbs">
+        <ul>
+            <li><a href="#"></a>Home</li>
+            <li><a href="#"></a>Accessories </li>
+            <li><a href="#"></a>Socks</li>
+
+        </ul>
+    </nav>
+    
+    <h1 class="product-title">Union Jack Socks</h1>
+
+    <Section class="product-image">
+        <img src="./image/ACK0284NAV_FULL.jpg" alt="Union Jack Sock" width="80%">
+    </Section>
+
+    <section class="product-options">
+        <div class="size-options">
+             <button class="size-options button">6-10</button>
+             <button class="size-options button">10.5-13</button>
+        </div>
+        <div class="quantity">
+         <label for="quantity">Quantity</label>
+         <select name="quantity" id="quantity">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+        </select>
+        </div>
+        
+        <p class="price">Price:£50.00</p>
+        <button class="add-to-bag">Add to Bag</button>
+    </section>
+
+    <section class="product-description">
+        <h2>Product Description</h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor provident, distinctio quidem cupiditate saepe sit! Eligendi officia perspiciatis ut? Optio impedit sed quas? Delectus neque exercitationem pariatur facilis laudantium quo!</p>
+        <ul>
+            <li>Product Feature</li>
+            <li>Product Feature</li>
+            <li>Product Feature</li>
+        </ul>
+    </section>
+    
+    <table class="delivery-options">
+        <thead class="delivery-options th">
+            <tr>
+                <th>Delivery Option</th>
+                <th>Price</th>
+                <th>Estimated Delivery Time</th>
+            </tr>
+        </thead>
+        <tbody class="delivery-options td">
+            <tr>
+                <td>Standard Delivery</td>
+                <td>£4.99</td>
+                <td>3-5 working Days</td>
+            </tr>
+            <tr>
+                <td>Next Day Delivery</td>
+                <td>£8.99</td>
+                <td>Next working Days</td>
+            </tr>
+            <tr>
+                <td>Click & Collect</td>
+                <td>Free</td>
+                <td>Same Days</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <section class="customer-reviews">
+        <h2>Reviews</h2>
+        <article>
+            <h3>James Pennington</h3>
+            <p>★★★★​☆​</p>  
+            <p>Just right for a street party</p>
+        </article>
+        <article>
+            <h3>Liping Zheng</h3>
+            <p>★★★​☆​​☆​​</p>
+            <p>One sock appeared to be seconds with loose white threads leaving a small hole above heel revealing underlying blue.
+            </p>
+        </article>
+        <article>
+            <h3>Vivian</h3>
+            <p>★★★​★★​​</p>
+            <p>Good price for the amount. Although they came on the last day of the delivery date, was hoping they would be here sooner since it didn’t need to go far. These are a gift. I think they will be well received.</p>
+        </article>
+    </section>
+</body>
+
+</html>
