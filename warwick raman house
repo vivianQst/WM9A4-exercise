@@ -1,0 +1,71 @@
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-d61df9a5-bd0a-405f-84e1-4f8f47c098b9@mhtml.blink" />
+       =20
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1.0">
+        <title>Warwick Ramen Stand</title>
+       =20
+    </head>
+
+    <body>
+
+        <div class=3D"header">
+            <h1>Warwick Ramen Stand
+</h1>
+<h1>{
+  text-shadow: 2px 2px 8px #FF0000;
+}</h1></div>
+
+        <div class=3D"content">
+            <p>Discover the authentic taste of Japan!
+</p>
+<a href=3D"https://warwick.ac.uk/">Visit warwick!</a>
+
+            <div id=3D"ramen-menu">
+                <h2>Our Menu</h2>
+<h3>Opening Hours</h3><table>
+  <tbody><tr>
+    <th>Dates</th>
+    <th>Hours</th>
+   =20
+  </tr>
+  <tr>
+    <td>Mon</td>
+    <td>11am-8pm</td>
+  </tr>
+  <tr>
+    <td>Tues</td>
+<td>11am-8pm</td>
+  </tr>
+  <tr>
+    <td>Wed</td>
+    <td>11am-8pm</td>
+  </tr>
+    <tr>
+    <td>Thurs</td>
+    <td>11am-8pm</td>
+  </tr>
+    <tr>
+    <td>Fri</td>
+    <td>11am-8pm</td>
+  </tr>
+</tbody></table>
+
+                <p class=3D"menu-item">Tonkotsu Ramen</p>
+<img src=3D"https://media-cdn.tripadvisor.com/media/photo-o/13/2b/64/16/pho=
+to0jpg.jpg" alt=3D"Tonkotsu Ramen" width=3D"50%">
+
+                <p class=3D"menu-item">Shoyu Ramen</p>
+                <p class=3D"menu-item">Miso Ramen</p>
+            </div>
+        </div>
+
+
+        <div class=3D"footer">
+            <p>Visit us outside MEC!</p>
+        </div>
+
+   =20
+
+</body></html>
